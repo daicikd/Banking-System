@@ -1,8 +1,6 @@
 <h1>Basic Banking System</h1>
 
 <p>
-Basic Banking System
-
 Its a simple console-based banking system built in Java. It allows users to **deposit**, **withdraw**, **check balance**, and **view account info** using an organized `BankAccount` class. The project uses OOP principles, keeping account details private and secure.
 
 **Skills Used**:  
