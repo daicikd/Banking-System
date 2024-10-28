@@ -21,5 +21,5 @@ A simple console-based banking system built in Java. It allows users to **deposi
    - **Display Account Info**: See account details.
    - **Exit**: Ends the program.
 
-This project is a great way to learn the basics of OOP and creating interactive programs in Java.
+Building this project made me realise it is a great way to learn the basics of OOP and creating interactive programs in Java.
 </p>
